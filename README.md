@@ -31,7 +31,6 @@ The dataset contains:
 - Order Details
 - Sales Data
 - Profit Data
-- Discount Information
 - Product Categories
 - Regional Data
 - Order Dates
